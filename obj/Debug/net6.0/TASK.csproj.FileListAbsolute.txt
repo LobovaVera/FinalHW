@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\bin\Debug\net6.0\TASK.exe
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\bin\Debug\net6.0\TASK.deps.json
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\bin\Debug\net6.0\TASK.runtimeconfig.json
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\bin\Debug\net6.0\TASK.dll
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\bin\Debug\net6.0\TASK.pdb
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\TASK.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\TASK.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\TASK.AssemblyInfo.cs
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\TASK.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\TASK.dll
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\refint\TASK.dll
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\TASK.pdb
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\TASK.genruntimeconfig.cache
+C:\Users\Илья\Desktop\GBEdu\CSharp\FinalHW\TASK\obj\Debug\net6.0\ref\TASK.dll
