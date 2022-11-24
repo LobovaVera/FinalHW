@@ -30,8 +30,8 @@ void PrintArray(string[] arr)
 
 string[] SelectMoreThanSize(string[] arr, int size)
 { string line = string.Empty;
-int i = 0;
-    for (; i < arr.Length; i++)
+
+    for (int i = 0; i < arr.Length; i++)
     {
         if(arr[i].Length<=3)
         {
